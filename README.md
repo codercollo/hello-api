@@ -1,6 +1,4 @@
-<<<<<<< HEAD
 # hello-api
-=======
 # Hello API
 ## Release Milestones
 ### V0 (1 day)
